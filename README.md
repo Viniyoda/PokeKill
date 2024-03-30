@@ -1,5 +1,6 @@
 # PokeKill
 [Trabalho 1] Criando um Jogo Low-Code com Banco de Dados Relacional
+O jogo foi inspirado em VampireSurvivor, onde nosso jogador atira em pokemons com o objetivo de coletar o máximo de pokebolas possíveis
 
 ## Foto dos códigos do game:
 
