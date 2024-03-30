@@ -15,3 +15,6 @@ O jogo foi inspirado em VampireSurvivor, onde nosso jogador atira em pokemons co
 
 ### Link do jogo online no Arcade:
 https://www.construct.net/en/free-online-games/pokekillfatec-62868/play
+
+## Video do jogo:
+https://github.com/Viniyoda/PokeKill/assets/144862427/6c07870c-7fb9-43e1-ada6-ab921800b717
